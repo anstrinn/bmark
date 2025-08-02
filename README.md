@@ -25,7 +25,7 @@ This tool follows the UNIX philosophy. Extra functionalities like opening in the
 ## Installation
 
 ```bash
-git clone https://github.com/janpstrunn/bmark
+git clone https://github.com/anstrinn/bmark
 cd bmark && mv src/bmark $HOME/.local/bin
 chmod +x $HOME/.local/bin/bmark
 ```
